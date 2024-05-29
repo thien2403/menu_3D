@@ -68,47 +68,47 @@ ul li a:hover{
 }
 ul li:hover .fa-brands{
     color:#fff;
- 
+
 }
 ul li:hover span{
     color:#fff;
 }
 ul li:hover a.fa-facebook-f  {
-    background: blue;
+    background-image: linear-gradient(to right , #3B5998, #ffff);
 }
 ul li:hover a.fa-twitter  {
-    background: #1c8eee;
+    background-image: linear-gradient(to right, #1DA1F2,#F5F8FA);
 }
 ul li:hover a.fa-google  {
-    background-color: red;
+    background-image: linear-gradient(to right , #E34133,#F3B605, #32A350);
 }
 ul li:hover a.fa-instagram  {
-    background-color: #EE3A02;
+    background-image: linear-gradient(to right, #8A3AB9,#E95950);
 }
 ul li:hover a.fa-facebook-f::before {
-    background-color: blue;
+    background: #3B5998;
 }
 ul li:hover a.fa-facebook-f::after{
-    background: blue;
+    background-image: linear-gradient(to right , #3B5998, #ffff);
 }
 
 ul li:hover a.fa-twitter::before {
-    background-color: #1c8eee;
+    background: #1DA1F2;
 }
 ul li:hover a.fa-twitter::after{
-    background: #1c8eee;
+    background-image: linear-gradient(to right, #1DA1F2,#F5F8FA);
 }
 
 ul li:hover a.fa-google::before {
-    background-color: red;
+    background: #E34133;
 }
 ul li:hover a.fa-google::after{
-    background: red;
+    background-image: linear-gradient(to right , #E34133,#F3B605, #32A350);
 }
 
 ul li:hover a.fa-instagram::before {
-    background-color: #EE3A02;
+    background: #8A3AB9;
 }
 ul li:hover a.fa-instagram::after{
-    background: #EE3A02;
+    background-image: linear-gradient(to right, #8A3AB9,#E95950);
 }
